@@ -1,0 +1,3 @@
+/home/snood/ШАГ/Объектно-ориентированное программирование на языке C++/Projects/AbstractGeometry/cmake-build-debug/CMakeFiles/AbstractGeometry.dir
+/home/snood/ШАГ/Объектно-ориентированное программирование на языке C++/Projects/AbstractGeometry/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/snood/ШАГ/Объектно-ориентированное программирование на языке C++/Projects/AbstractGeometry/cmake-build-debug/CMakeFiles/rebuild_cache.dir

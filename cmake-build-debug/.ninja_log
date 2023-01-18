@@ -1,0 +1,8 @@
+# ninja log v5
+0	58	1673697053210427300	build.ninja	4db439c50b9fa112
+469	565	1674053960128092900	AbstractGeometry	f96d5dcb653f9e5c
+0	469	1674053960032419700	CMakeFiles/AbstractGeometry.dir/main.cpp.o	1c2929782c5661ea
+1	591	1674054000878593700	CMakeFiles/AbstractGeometry.dir/main.cpp.o	1c2929782c5661ea
+592	753	1674054001039424100	AbstractGeometry	f96d5dcb653f9e5c
+0	469	1674055767732521200	CMakeFiles/AbstractGeometry.dir/main.cpp.o	1c2929782c5661ea
+469	564	1674055767826530000	AbstractGeometry	f96d5dcb653f9e5c
